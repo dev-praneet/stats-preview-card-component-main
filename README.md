@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). 
 
 ## Table of contents
 
@@ -26,11 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+![](./screenshot_desktop.png)
 
 
 ### Links
@@ -45,14 +41,10 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-
-
 
 ## Author
 
-
-- Frontend Mentor - []()
+Geeky
 
 
 
