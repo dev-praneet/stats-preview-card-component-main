@@ -61,7 +61,7 @@ h1 {
 .main-para {
     color: hsla(0, 0%, 100%, 0.6);
     margin-top: 0.4em;
-    margin-bottom: 4em;
+    margin-bottom: 3em;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
 }
@@ -110,6 +110,7 @@ img {
     }
 
     .flex-item-two {
+        line-height: 0;
         border-top-left-radius: var(--radius);
         border-bottom-right-radius: 0;
     }
